@@ -7,3 +7,5 @@ gewone teskt
 ### Voorbeeldtekst
 gewone teskt
 > Tip
+
+Toevoeging zoals het hoort
